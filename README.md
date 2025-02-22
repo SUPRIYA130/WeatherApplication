@@ -1,4 +1,4 @@
-Weather App
+# Weather - Application
 Overview
 This Weather App is a web-based tool that allows users to check the current weather conditions for their location and any city around the world. It features a user-friendly interface, dynamic background images, and real-time weather data powered by the OpenWeather API.
 
